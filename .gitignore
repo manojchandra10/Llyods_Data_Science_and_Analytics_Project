@@ -1,0 +1,18 @@
+# Python / notebook junk
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Generated figures
+fig*.png
+fig*.jpg
+fig*.jpeg
+fig*.svg
+figures/
+plots/
+images/generated/
+
+# Temporary files
+~$*
+.DS_Store
+Thumbs.db
